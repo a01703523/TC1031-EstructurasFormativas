@@ -11,5 +11,5 @@ El algoritmo se manda a llamar a sí mismo n veces, por los que su complejidad e
 #suma Directa
 
 Análisis de complejidad temporal
-El algoritmo se manda utiliza una formula, por lo tanto la complejidad es O(1)[constante], porque solo se 
+El algoritmo utiliza una fórmula, por lo tanto la complejidad es O(1)[constante], porque solo se 
 ejecuta una vez esa instrucción, independientemente del tamaño de n.
